@@ -1,0 +1,39 @@
+body{
+    background-color: black;  
+    display: flex; 
+    padding: 0%;
+    width: 0%;
+}
+/*TITULO*/
+.container_titulo{
+    color: #F6F6F6;
+    text-align: center;
+}
+
+strong{
+    color: aqua;
+}
+
+/*TEXTO*/
+.apresentacao{
+    color: #F6F6F6;
+    text-align: center;
+}
+
+span{
+    color: aqua;
+}
+
+/*IMAGEM*/
+.container_img{
+
+}
+
+/*BUTAO*/
+.container_ins{
+    color: #F6F6F6;
+}
+
+.container_git{
+    color: #F6F6F6;
+}
